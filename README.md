@@ -12,8 +12,6 @@
 
 *TA MANAGER*: DR.ANURAG SHRIVASTAVA
 
-Here is your **350-word answer** covering tools, editor, and where the task is applicable 👇
-
 *DESCRIPTION*
 
 In this project, various tools and technologies were used to successfully develop the Handwritten Digit Recognizer using a Convolutional Neural Network (CNN). The primary programming language used is Python, as it provides strong support for machine learning and deep learning applications. For building and training the model, TensorFlow and Keras libraries were used. These libraries offer powerful functionalities to design neural networks, train models efficiently, and achieve high accuracy in predictions.
